@@ -1,2 +1,1 @@
-# PyVi
-A Vi-Like text editor in python.
+# 📝 PyVi, a Vi-like text editor written in Python!
