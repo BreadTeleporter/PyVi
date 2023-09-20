@@ -21,3 +21,8 @@ Most commands (other than, w, o and q) use line numbers before the action.
  - `:w [file]`
  - `:o [file]`
  - `:q`
+
+## TODO
+ - [ ] Plugin support
+ - [ ] Syntax highlighting
+ - [ ] Clipboard support (System global clipboard)
