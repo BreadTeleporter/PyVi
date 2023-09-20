@@ -9,3 +9,6 @@ Speaking of, the commands PyVi currently supports are:
  - :w, Write file
  - :o, Open file
  - :q, Quit
+
+## Getting started
+After downloading PyVi, and creating a new file, use `:i 0 Some Text` to insert text at line 0
