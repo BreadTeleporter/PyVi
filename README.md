@@ -12,3 +12,12 @@ Speaking of, the commands PyVi currently supports are:
 
 ## Getting started
 After downloading PyVi, and creating a new file, use `:i 0 Some Text` to insert text at line 0
+Most commands (other than, w, o and q) use line numbers before the action.
+
+## Command syntax
+ - `:i [line] [text]`
+ - `:a [line] [text]`
+ - `:c [line]`
+ - `:w [file]`
+ - `:o [file]`
+ - `:q`
