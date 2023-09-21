@@ -26,3 +26,4 @@ Most commands (other than, w, o and q) use line numbers before the action.
  - [ ] Plugin support
  - [ ] Syntax highlighting
  - [ ] Clipboard support (System global clipboard)
+ - [ ] Typing directly into lines
