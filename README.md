@@ -27,3 +27,4 @@ Most commands (other than, w, o and q) use line numbers before the action.
  - [ ] Syntax highlighting
  - [ ] Clipboard support (System global clipboard)
  - [ ] Typing directly into lines
+ - [ ] Fix append appending before lines, not after (Add control?)
